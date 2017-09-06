@@ -6,4 +6,6 @@
 ## 3d face modeling (video)
 ## 2D face recognition
 ## 3D face recognition
+## facial expression modeling
+## facial expressoin recognition
 ## heart rate analysis
